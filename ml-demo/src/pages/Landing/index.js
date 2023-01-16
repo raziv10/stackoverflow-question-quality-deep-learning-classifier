@@ -25,7 +25,7 @@ const Landing = () =>{
             <Box py={4} mx={"auto"} style={{backgroundColor: "#BCBBBB"}} width={"100%"}>
                 <h3>Rajiv Luitel</h3>
                 <br/>
-                <a href="https://github.com/Oddarn1/TDT4173-project" style={{border: "none", textDecoration: "none"}}><img src={github} alt="Github logo" style={{height: "5rem"}} /></a>
+                <a href="https://github.com/raziv10/stackoverflow-question-quality-deep-learning-classifier" style={{border: "none", textDecoration: "none"}}><img src={github} alt="Github logo" style={{height: "5rem"}} /></a>
             </Box>
         </Box>
     )
